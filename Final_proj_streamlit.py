@@ -38,7 +38,7 @@ nltk.download('stopwords')
 
 # SETTING PAGE CONFIGURATIONS
 icon = Image.open("image1.jpg")
-st.set_page_config(page_title="Final Project:| By HARIPRASATH ",
+st.set_page_config(page_title="Final Project:| By sanjeev ",
                    page_icon=icon,
                    layout="wide",
                    initial_sidebar_state="expanded",
